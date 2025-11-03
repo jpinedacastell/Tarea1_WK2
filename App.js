@@ -1,8 +1,7 @@
-// App.js
 import React from 'react';
 import { SafeAreaView, StyleSheet, ScrollView, View, Text } from 'react-native';
 
-// Importamos los 4 componentes de los ejercicios
+
 import Ejercicio1 from './src/components/Ejercicio1';
 import Ejercicio2 from './src/components/Ejercicio2';
 import Ejercicio3 from './src/components/Ejercicio3.js';
